@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Thesis Footer Tool
-Plugin URI: http://thesishooks.grandslambert.com/footer-tool.html
+Plugin URI: http://thesistools.grandslambert.com/the-tools/thesis-footer-tool.html
 Description: Allows you to manage things in and around the footer of the Thesis theme.
 Author: GrandSlambert
 Version: 0.1
